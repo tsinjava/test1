@@ -17,7 +17,7 @@
 	
 				<key>url</key>
 					
-<string>http://211.141.83.103:8093/x11/UI2/app.ipa</string>
+<string>http://211.141.83.113:8081/x9/UI2/app.ipa</string>
 			
 	</dict>
 				<dict>
@@ -30,7 +30,7 @@
 				
 	<key>url</key>
 					
-<string></string>
+<string>http://www.andonetech.net:8080/x5/UI2/HumanMobileApp/images/app.png</string>
 	
 			</dict>
 				<dict>
@@ -43,7 +43,7 @@
 <true/>
 					<key>url</key>
 					
-<string></string>
+<string>http://www.andonetech.net:8080/x5/UI2/HumanMobileApp/images/app.png</string>
 	
 			</dict>
 			</array>
@@ -52,10 +52,10 @@
 		<dict>
 				<key>bundle-identifier</key>
 				
-<string>com.elaw.push</string>
+<string>com.andone.oneapp</string>
 				<key>bundle-version</key>
 		
-		<string>1.1.2</string>
+		<string>1.1.0</string>
 				<key>kind</key>
 			
 	<string>software</string>
